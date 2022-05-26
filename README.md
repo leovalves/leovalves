@@ -1,7 +1,7 @@
 ### Hello, World! I'm Leo! 👋
 
 
-I'm Leo, I'm 22 years old, I live in São Paulo, Brazil. I am a student of Systems Analysis and Development. Passionate about technology, innovation and possibilities.
+I'm 22 years old, I live in São Paulo, Brazil. I'm studying Systems Analysis and Development. Passionate about technology, innovation and possibilities.
 
 - 🚀 Future full stack developer!
 
