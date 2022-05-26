@@ -20,7 +20,7 @@ I'm Leo, I'm 22 years old, I live in São Paulo, Brazil. I am a student of Syste
 ### 📊 Activity
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leovalves&show_icons=true&theme=great-gatsby "/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovalves&show_icons=true&layout=compact&langs_count=6&theme=great-gatsby "/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leovalves&show_icons=true&theme=maroongold  "/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovalves&show_icons=true&layout=compact&langs_count=6&theme=maroongold  "/>
 </div>
  
